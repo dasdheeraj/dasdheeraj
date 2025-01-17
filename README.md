@@ -1,7 +1,7 @@
 ![logo](https://github.com/dasdheeraj/dasdheeraj/blob/main/API%20Quickstart%20Guide.gif)
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 👋 I'm Dheeraj Kumar</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h3 align="center">A passionate Full Stack SAP ABAP Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AIML**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, ReactJS, Windchill PLM**
+- 💬 Ask me about **SAP UI5, SAP ABAP, Java, HTML, CSS, JavaScript, ReactJS, Windchill PLM**
 
 - 📫 How to reach me **dheerajkmr395@gmail.com**
 
