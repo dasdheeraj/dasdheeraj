@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdheeraj&label=Profile%20views&color=0e75b6&style=flat" alt="dasdheeraj" /> </p>
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **SAP ABAP**
 
 - 💬 Ask me about **SAP UI5, SAP ABAP, Java, HTML, CSS, JavaScript, ReactJS, Windchill PLM**
 
